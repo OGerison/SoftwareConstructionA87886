@@ -1,0 +1,105 @@
+NAME: OTIM WILLIAM GERISON
+RegNo: S19B23/421
+AccessNo: A87886
+
+Assignment 1
+
+
+
+SOFTWARE CONSTRUCTION MODELS
+
+The Software Development methodology is a framework used to structure, plan and control the process of developing software.
+Some of the methods include the following;
+
+RAPID APPLICATION DEVELOPMENT (RAD)
+	It is a methodology used when the software to be developed is needed quickly and yet a high-quality system is needed with a limited budget. This is achieved 
+through iterative prototyping at any development stage and constant user involvement.
+Software developed using this methodology is primarily focused on fulfilling the desires of the client with little emphasis on technological excellence.
+The advantages of this method include; a working version of the software is produced very early therefore it is fast, the overall development cost is low compared 
+to other methodologies, it produces flexible software because user changes can be easily incorporated.
+The disadvantages however include; poor overall software quality due to it being cheap and fast software development, Software produced may not be reused 
+in the future, The Software produced may not be scalable because the requirements described fit the current conditions.
+(Blog, 2017)
+
+WATERFALL
+	Is a development methodology where a project is developed in specified and predefined stages and work is done in a step wise method until its conclusion 
+being release to the client.
+	The stages include; requirements, design, coding, testing and operations. Other tasks such as project documentation, user interface and features design are 
+done prior to the start because once an activity has started you cannot go back to the previous activity.
+The advantages of waterfall include; Extensive documentation which helps in case of one of the employees leaving the project the new employees have an idea of what 
+they are working with, Software projects developed using this methodology are easy to understand because the project is divided into discrete and progress is easy 
+to measure because the project is phased, you can easily see the progress or hold up in a Gantt chart.
+The disadvantages however include; little room for error because everything in this methodology relies on the requirements phase hence an error can 
+prove fatal, the software produce might have a lot of bugs because testing is done at the end.
+(Olic)
+
+PROTOTYPING
+	Is a system development methodology where system simulations are created beforehand and then tested and must receive validation before the system is developed. 
+It is a method that aims at ensuring a system will solve a problem and not until that can be guaranteed, development cannot proceed which helps companies eliminate expenditures 
+on systems that may not have worked.
+The advantages of prototyping include; The methodology encourages innovation and flexible designs since development commences when the system is satisfactory, it provides 
+quick implementation of an incomplete but functional application or software, developers can exploit knowledge from earlier development to develop a better prototype for development.
+The disadvantages include; the approval process may not be strict therefore the prototype produced may not be the best possible one, documentation maybe neglected 
+by the developers leading to insufficient justification and no/little records, it is susceptible to requirements change which is fatal which makes the whole process null.
+(Khan, 2016)
+
+SPIRAL
+	Is a methodology used mainly for risk management and it combines characteristics of iterative development with elements of waterfall methodology. This methodology is
+ mainly used by developers and clients for large expensive and complicated projects.
+	The processes at each phase involved in the spiral methodology include identifying objectives, performing risk analysis, development and testing and lastly reviewing 
+and evaluation.
+	Advantages include; flexibility of the software whereby changes to requirements can be easily added, the idea of risk handling at each phase reduces risks down the 
+road through risk management, the final software is what the customer wanted since the customer is able to see what has been developed at each phase.
+Disadvantages includes; It is expensive and not suited to small software projects, it is complex, it is highly dependent on risk analysis without which the project would crumble.
+(Target)
+
+ITERATION
+	It is a methodology where by the developers of the system start development from a initial simple version and keep on making the software more complex and broader whilst 
+fulfilling the requirements until the final system is complete.
+	The processes involved include planning and requirements, analysis and design, implementation, testing and concludes with evaluation.
+	Advantages include; it is easily adaptable in case of changing requirements or client needs, changes to the software can be recognized early and changed to the new demands 
+without affecting the client.
+	Disadvantages include; user engagement throughout the entirety of the project which may become tiresome to the user, it does not cater for unseen design changes which may 
+prove fatal.
+(Airbreak, 2016)
+
+SOFTWARE CONSTRUCTION HISTORY
+	The history of Software Construction began in 1945 and its first era between 1945 and 1965 which was majorly characterized by Margaret Hamilton 
+naming it as discipline as a way of making it seem genuine. However, between 1965 and 1985 a period that has since been named as the Software Crisis which was 
+known to be caused by expensive projects and yet the projects would still be delivered late. The late nineties
+ of 1985 to 1989 was pivotal to solving the crisis primarily because maintaining software was more expensive than its construction.
+	However, towards the end of the century in 1990 towards 1999 and the rise of the internet and the ability to share information i
+nternationally brought about a new age in the software construction story and this continued to develop from 2000 through to 2015 especially 
+with the demand for cheaper software especially for smaller companies and this has led to easier software construction processes seen today. (Wikipedia)
+
+
+
+
+
+
+
+
+
+
+References
+7pace. (2018, July 23). The 14 Best Productivity Tools for Developers of All Disciplines. 
+Retrieved from 7pace: https://www.7pace.com/blog/the-14-best-productivity-tools-for-developers-of-all-disciplines
+
+Airbreak. (2016, December 15). Iterative Model: What Is It And When Should You Use It? 
+Retrieved from Airbreak: https://airbrake.io/blog/sdlc/iterative-model#:~:text=The%20iterative%20model%20is%20a,the%20final%20system%20is%20complete.
+
+Blog, F. (2017, September 6). 5 Competitive Advantages of Rapid Application Development. 
+Retrieved from Info FNTS: https://info.fnts.com/blog/5-competitive-advantages-of-rapid-application-development#:~:text=Overall%2C%20the%20simple%20adaptability%20of,errors%20that%20m
+
+Georgia, U. o. (n.d.). Time Management: 10 Strategies for Better Time Management. 
+Retrieved from University of Georgia Extension: https://extension.uga.edu/publications/detail.html?number=C1042&title=Time%20Management:%2010%20Strategies%20for%20Better%20Time%20Management
+
+Khan, K. (2016, August 3). System development methodologies. 
+Retrieved from SlideShare: https://www.slideshare.net/KashifKhan76/system-development-methodologies-64648700
+
+Olic, A. (n.d.). Waterfall Project Management Methodology. Retrieved from ActiveCollab: https://activecollab.com/blog/project-management/waterfall-project-management-methodology
+
+Target, T. (n.d.). Spiral Model. Retrieved from SearchSoftwareQuality: https://searchsoftwarequality.techtarget.com/definition/spiral-model
+
+Wikipedia. (n.d.). History of software engineering. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/History_of_software_engineering
+

@@ -1,0 +1,25 @@
+Requirements refer to the services the software should provide and the constraints the software should follow.
+They can be categorized as either functional or non-functional.
+The functional requirements are the requirements which specify functionality and the aspects of the system in regards to input and output.
+   The functional requirements for the Personal finance management system is as given below;
+•	Admin should be able to login.
+•	Admin should be able to view users.
+•	Admin should be able to view all data.
+•	Admin should be able to add user, delete users and update user information.
+•	User should be able to register.
+•	User should be able to use registration details to log into the system.
+•	User should be able to enter income and expenditure.
+•	User should be able to visualize the captured income and expenditure. 
+   However non-functional requirements are the requirements that define system attributes. They include the following and are dependent on architecture rather than code
+•	Performance Requirements. The System should be able to support multiple system users concurrently without lagging.
+•	Logical database requirements. The system and its information will be stored in a database.
+•	Design Constraints. The user interface of the system due to the fact that it is web based will be designed using HTML, CSS, Ajax and JavaScript. System administrators 
+	should have documentation of how the system work in order to work out solutions to problems should any arise before further intervention of the programmers.
+•	The system should be secure.
+•	It should legal and ethical.
+•	The system should be perform well.
+•	It should always be available.
+
+pros and cons of mvc, rails framework
+tdd is more about unit tests testing certain comps if they are work, test suites
+
